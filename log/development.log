@@ -2953,3 +2953,9 @@ Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8b
 
 
 Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for 127.0.0.1 at 2015-09-28 19:31:23 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2015-10-01 17:59:38 -0700
+Processing by ApplicationController#home as HTML
+  Rendered application/home.html within layouts/application (1.2ms)
+Completed 200 OK in 204ms (Views: 194.0ms | ActiveRecord: 0.0ms)
