@@ -5203,3 +5203,15 @@ Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb062
 
 
 Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for 127.0.0.1 at 2015-10-13 22:09:02 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2015-10-14 18:45:43 -0700
+Processing by ApplicationController#home as HTML
+  Rendered application/home.html within layouts/application (0.9ms)
+  Rendered layouts/_navbar.html.erb (0.4ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_about.html.erb (0.8ms)
+  Rendered layouts/_download.html.erb (0.3ms)
+  Rendered layouts/_contact.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 203ms (Views: 193.1ms | ActiveRecord: 0.0ms)
